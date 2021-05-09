@@ -7,4 +7,5 @@ Text Object : load phông chữ và load chữ lên game;
 Hangman : chứa các thông tin nhập vào từ bàn phím .ex: nhấn a -> nhận vào a để kiểm tra ở hàm main;
 gameplay : https://drive.google.com/file/d/1670I7Mpfw5aEilSPne6xyjVc48RSrC_o/view?usp=sharing
 cách tải: tải toàn bộ file :
-nếu sử dụng Visual studio : ấn vào mục
+nếu sử dụng Visual studio : ấn vào mục mygame.sln;
+nếu không : vào mục Debug và tìm mục mygame.exe
